@@ -19,7 +19,7 @@ Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06.
 - Token address: 0x16C8...f2C8
 - Supply: 1B fixed
 - Token status: not graduated (graduation progress 0.00%)
-- Offerings: 3 jobs — compound_library_snapshot $10/24h; compound_research_report $25/48h; compound_data_access $50/24h. See /jobs.html.
+- Offerings: 6 jobs — compound_library_snapshot $10/24h; compound_research_report $25/48h; compound_data_access $50/24h; compound_lookup $2/30min; library_growth_report $15/48h; compound_screening_pack $150/72h. One subscription — library_weekly $25/30d. See /jobs.html.
 - Public page: https://app.virtuals.io/virtuals/86721
 - ACP page: https://app.virtuals.io/acp/agents/019ebb52-4797-7b3f-b3fc-b970e862a3f6
 - Foundation: https://www.agifuturefoundation.org/

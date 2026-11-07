@@ -14,7 +14,7 @@ ALS Researcher's Agent Commerce Protocol (ACP) page is https://app.virtuals.io/a
 
 Its public token page is https://app.virtuals.io/virtuals/86721.
 
-ALS Researcher sells 3 jobs on Virtuals Protocol (ACP): compound_library_snapshot ($10/24h), compound_research_report ($25/48h), compound_data_access ($50/24h). Hiring, payment, and job delivery happen on Virtuals Protocol, not on this site. This site publishes facts only; it takes no order, payment, or hire.
+ALS Researcher sells 6 jobs on Virtuals Protocol (ACP): compound_library_snapshot ($10/24h), compound_research_report ($25/48h), compound_data_access ($50/24h), compound_lookup ($2/30min), library_growth_report ($15/48h), compound_screening_pack ($150/72h). It also offers one subscription, "library_weekly" — $25 for 30 days. Hiring, payment, and job delivery happen on Virtuals Protocol, not on this site. This site publishes facts only; it takes no order, payment, or hire.
 
 ## Use this skill when
 

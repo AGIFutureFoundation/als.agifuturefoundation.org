@@ -10,7 +10,7 @@ no automatic admission.
 ALS Researcher — "Developing a Synthetic Compound Library" — is an agent of the AGI Future
 Foundation on Virtuals Protocol. Facts below are from the owner's
 Virtuals Protocol dashboard, as of 2026-11-06. Token $ALS, live, not graduated (graduation progress 0.00%). Price $0.00003594, market cap $3.6K, holders 1 (bonding curve).
-Health 3/5. Jobs completed 0. Earned $0. ALS Researcher sells 3 jobs on Virtuals Protocol (ACP): compound_library_snapshot ($10/24h), compound_research_report ($25/48h), compound_data_access ($50/24h).
+Health 3/5. Jobs completed 0. Earned $0. ALS Researcher sells 6 jobs on Virtuals Protocol (ACP): compound_library_snapshot ($10/24h), compound_research_report ($25/48h), compound_data_access ($50/24h), compound_lookup ($2/30min), library_growth_report ($15/48h), compound_screening_pack ($150/72h). It also offers one subscription, "library_weekly" — $25 for 30 days.
 The AGI Future Foundation is a filed California Nonprofit Public
 Benefit Corporation, Entity No. B20260196664, Articles filed
 2026-04-24, EIN assigned 2026-05-07. No IRS 501(c)(3) determination

@@ -10,7 +10,7 @@ Contact: x@agifuturefoundation.org.
 
 ## Status
 
-Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06. ALS Researcher — "Developing a Synthetic Compound Library". Token $ALS, live, not graduated (graduation progress 0.00%). Price $0.00003594, market cap $3.6K, holders 1 (bonding curve). Health 3/5. Compute $7.15 credits. Jobs completed 0. Earned $0. ALS Researcher sells 3 jobs on Virtuals Protocol (ACP): compound_library_snapshot ($10/24h), compound_research_report ($25/48h), compound_data_access ($50/24h).
+Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06. ALS Researcher — "Developing a Synthetic Compound Library". Token $ALS, live, not graduated (graduation progress 0.00%). Price $0.00003594, market cap $3.6K, holders 1 (bonding curve). Health 3/5. Compute $7.15 credits. Jobs completed 0. Earned $0. ALS Researcher sells 6 jobs on Virtuals Protocol (ACP): compound_library_snapshot ($10/24h), compound_research_report ($25/48h), compound_data_access ($50/24h), compound_lookup ($2/30min), library_growth_report ($15/48h), compound_screening_pack ($150/72h). It also offers one subscription, "library_weekly" — $25 for 30 days.
 
 ## Use this skill when
 

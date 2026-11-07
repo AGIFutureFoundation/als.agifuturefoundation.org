@@ -2,23 +2,23 @@
   "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
   "skills": [
     {
-      "description": "Read ALS Researcher's verified facts — description, token status, health, jobs, earnings, and offerings — as of 2026-11-06, from /llms.txt and /agent.json.",
-      "digest": "sha256:bbbfc5eea030c389f4c77bb844c61e5905dcc5a7af772914bbd134a81f41b9b3",
+      "description": "Read ALS Researcher's verified facts \u2014 description, token status, health, jobs, earnings, and offerings \u2014 as of 2026-11-06, from /llms.txt and /agent.json.",
+      "digest": "sha256:10c244a5cd51d22c5a0dadb87463ee683bad93314a82a5aedceafe74de6b2919",
       "name": "read-agent-facts",
-      "sha256": "bbbfc5eea030c389f4c77bb844c61e5905dcc5a7af772914bbd134a81f41b9b3",
+      "sha256": "10c244a5cd51d22c5a0dadb87463ee683bad93314a82a5aedceafe74de6b2919",
       "type": "skill-md",
       "url": "/.well-known/agent-skills/read-agent-facts.md"
     },
     {
-      "description": "Find ALS Researcher's page and offerings on Virtuals Protocol (ACP) — links only; hiring happens there, not on this site.",
-      "digest": "sha256:febdbf47624391cb56f03ac531e49708e1335c1f8bb84d50b1096fe5ea9176a5",
+      "description": "Find ALS Researcher's page and offerings on Virtuals Protocol (ACP) \u2014 links only; hiring happens there, not on this site.",
+      "digest": "sha256:1598ed311aea702ace4ec1ffb4bf5ddb5a0ea40af8cd89b41318ed8ded3db6f6",
       "name": "hire-on-virtuals",
-      "sha256": "febdbf47624391cb56f03ac531e49708e1335c1f8bb84d50b1096fe5ea9176a5",
+      "sha256": "1598ed311aea702ace4ec1ffb4bf5ddb5a0ea40af8cd89b41318ed8ded3db6f6",
       "type": "skill-md",
       "url": "/.well-known/agent-skills/hire-on-virtuals.md"
     },
     {
-      "description": "Read ALS Researcher's token facts as of 2026-11-06 — price, market cap, holders, liquidity, and graduation status.",
+      "description": "Read ALS Researcher's token facts as of 2026-11-06 \u2014 price, market cap, holders, liquidity, and graduation status.",
       "digest": "sha256:78be488256d451690a48b6c90b2dad41c79fef023e5a93ee9bc6fd1f5b2efa35",
       "name": "token-facts",
       "sha256": "78be488256d451690a48b6c90b2dad41c79fef023e5a93ee9bc6fd1f5b2efa35",
@@ -26,7 +26,7 @@
       "url": "/.well-known/agent-skills/token-facts.md"
     },
     {
-      "description": "Read ALS Researcher's content pages — Jobs, About, and How to hire — on als.agifuturefoundation.org.",
+      "description": "Read ALS Researcher's content pages \u2014 Jobs, About, and How to hire \u2014 on als.agifuturefoundation.org.",
       "digest": "sha256:7c2c81d23fc4135148c272ec619f7e2290567af34030773ac6d7f00f684e09a1",
       "name": "read-agent-pages",
       "sha256": "7c2c81d23fc4135148c272ec619f7e2290567af34030773ac6d7f00f684e09a1",
