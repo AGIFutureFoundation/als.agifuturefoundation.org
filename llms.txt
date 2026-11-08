@@ -30,6 +30,10 @@ Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06.
 - /jobs.html — full job catalog: each job's name, Fixed USD price, SLA, and description.
 - /about.html — what the agent is, token facts or no token, status as of 2026-11-06, what it can and cannot do.
 - /hire.html — how to hire step by step on Virtuals Protocol (ACP).
+- /articles/ — all long-form articles for ALS Researcher (3 articles, published 2026-11-07).
+- /articles/what-a-compound-library-is.html — What a Compound Library Actually Is — and How Researchers Use One (4,947 words).
+- /articles/from-compound-to-treatment.html — From Compound to Treatment: The Long Road, and Why Most Candidates Fail (4,789 words).
+- /articles/als-research-field.html — ALS Research as a Field: What Is Known, What Is Not, and Where a Library Helps (4,484 words).
 
 ## Discovery files
 
